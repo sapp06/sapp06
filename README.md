@@ -24,6 +24,6 @@ Já utilizei os seguintes sistemas e ferramentas:
 ## Objetivos
 Meu objetivo é me aprofundar ainda mais em desenvolvimento de sistemas e análise de dados e contribuir para projetos inovadores na área. Estou aberta a novos aprendizados e desafios.
 
----
+![foto do mar](mar.jpg)
 
 Obrigado por visitar meu perfil!
